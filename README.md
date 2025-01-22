@@ -1,1 +1,2 @@
-# problematic_internet_usage
+# Child Mind Institute - Problematic Internet Usage
+In today's digital world, excessive internet use among children and adolescents has become a growing concern, closely linked to mental health issues like anxiety and depression. This project seeks to create a predictive model that analyzes children's physical activity data to identify early signs of problematic internet usage. The dataset for this competition comes from the Healthy Brain Network (HBN), which includes clinical and research data from over 5,000 individuals aged 5-22. The goal is to predict a participant's Severity Impairment Index (SII), a measure of internet usage issues, using physical activity and internet behavior data.
